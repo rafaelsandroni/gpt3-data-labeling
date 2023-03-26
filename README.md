@@ -1,7 +1,7 @@
 # AutoLabeling
 
 ## Want to label some data?
-GPT3 data labeling is implemented on Metatext.ai, give it a try.
+GPT3 data labeling is implemented on [Metatext.ai](https://metatext.ai), give it a try.
 
 ## Goal
 This repo aims to reproduce and improve the study from [Want To Reduce Labeling Cost? GPT-3 Can Help](https://arxiv.org/pdf/2108.13487.pdf) in Brazilian Portuguese.
